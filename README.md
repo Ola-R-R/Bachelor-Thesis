@@ -1,3 +1,1 @@
 # Bachelor-Thesis
-
-Hei
